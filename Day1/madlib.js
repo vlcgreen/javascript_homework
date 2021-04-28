@@ -1,0 +1,5 @@
+
+
+function madlib(name, subject){
+    
+}
